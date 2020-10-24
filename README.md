@@ -1,10 +1,8 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 Also avaliable in  [English](https://github.com/filimor/filimor/edit/main/README.md), [Português](https://github.com/filimor/filimor/edit/main/README.pt-BR.md)
 
 My name is Filipe and I'm an "older new" to this field of knowledge. I plan to be both a speak languages and programming languages poliglote [emoji]. Most of my repositories are made for learning pourposes only, but I expect that I can contribute to open source soon!
-
-[![HitCount](http://hits.dwyl.com/filimor/filimor.svg)](http://hits.dwyl.com/filimor/filimor)
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=filimor&count_private=true&show_icons=true&include_all_commits=true&custom_title=What%20I've%20done)](https://github.com/filimor/github-readme-stats)
 
@@ -14,7 +12,6 @@ My name is Filipe and I'm an "older new" to this field of knowledge. I plan to b
 
 ### 🔭 I'm focused on work with:
 
-<code>
  <a href="#">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/csharp_dotnet.svg" alt="C# / .NET" style="vertical-align:top margin:6px 4px">
  </a>
@@ -30,11 +27,9 @@ My name is Filipe and I'm an "older new" to this field of knowledge. I plan to b
  <a href="#">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/powershell.svg" alt="Power Shell" style="vertical-align:top margin:6px 4px">
  </a>
-</code>
 
 ### 🌱 I also know a little about:
 
-<code>
  <a href="#">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/html.svg" alt="HTML5" style="vertical-align:top margin:6px 4px">
  </a>
@@ -62,11 +57,9 @@ My name is Filipe and I'm an "older new" to this field of knowledge. I plan to b
  <a href="#">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/docker.svg" alt="Docker" style="vertical-align:top margin:6px 4px">
  </a>
-</code>
 
 ### 🌱 And I'm currently learning:
 
-<code>
  <a href="#">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/dart_colour.svg" alt="Dart" style="vertical-align:top margin:6px 4px">
  </a>
@@ -79,11 +72,9 @@ My name is Filipe and I'm an "older new" to this field of knowledge. I plan to b
  <a href="#">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/misc/gamedev.svg" alt="Game Development" style="vertical-align:top margin:6px 4px">
  </a>
-</code>
 
 ### 📫 Where can you found me?
 
-<code>
  <a href="#">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/email_me.svg" alt="E-mail" style="vertical-align:top margin:6px 4px">
  </a>
@@ -114,18 +105,8 @@ My name is Filipe and I'm an "older new" to this field of knowledge. I plan to b
  <a href="#">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/services/leetcode.svg" alt="Leet Code" style="vertical-align:top margin:6px 4px">
  </a>
-</code>
 
 ### 😄 My gratitute to:
 
 - [Anurag Hazra](https://github.com/anuraghazra) for the [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats) project
 - [Mike James](https://github.com/MikeCodesDotNET) for the [Colored Badges](https://github.com/MikeCodesDotNET/ColoredBadges) project
-
-<!--
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
