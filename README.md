@@ -70,8 +70,12 @@ My name is Filipe and I'm an "older new" to this field of knowledge. I plan to b
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/python.svg" alt="Python" style="vertical-align:top margin:6px 4px">
  </a>
  <a href="#">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/xamarin_forms.svg" alt="Xamarin Forms" style="vertical-align:top margin:6px 4px">
+ </a>
+ <a href="#">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/misc/gamedev.svg" alt="Game Development" style="vertical-align:top margin:6px 4px">
  </a>
+ 
 
 ### 📫 Where can you found me?
 
