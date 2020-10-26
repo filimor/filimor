@@ -12,84 +12,85 @@ Hello! My name is Filipe and I'm rediscovering an old passion: software developm
 
 ### 📗 My main focus is to work with:
 
- <a href="#">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/csharp_dotnet.svg" alt="C# / .NET" style="vertical-align:top margin:6px 4px">
- </a>
- <a href="#">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/wpf.svg" alt="WPF" style="vertical-align:top margin:6px 4px">
- </a>
- <a href="#">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/visualstudio.svg" alt="Visual Studio" style="vertical-align:top margin:6px 4px">
- </a>
- <a href="#">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/visualstudio_code.svg" alt="VS Code" style="vertical-align:top margin:6px 4px">
- </a>
- <a href="#">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/powershell.svg" alt="Power Shell" style="vertical-align:top margin:6px 4px">
- </a>
+<a href="#">
+ <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/csharp_dotnet.svg" alt="C# / .NET" style="vertical-align:top margin:6px 4px">
+</a>
+<a href="#">
+ <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/wpf.svg" alt="WPF" style="vertical-align:top margin:6px 4px">
+</a>
+<a href="#">
+ <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/visualstudio.svg" alt="Visual Studio" style="vertical-align:top margin:6px 4px">
+</a>
+<a href="#">
+ <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/visualstudio_code.svg" alt="VS Code" style="vertical-align:top margin:6px 4px">
+</a>
+<a href="#">
+ <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/powershell.svg" alt="Power Shell" style="vertical-align:top margin:6px 4px">
+</a>
 
 ### 📒 I also know a little about:
 
- <a href="#">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/html.svg" alt="HTML5" style="vertical-align:top margin:6px 4px">
- </a>
- <a href="#">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/css3.svg" alt="CSS3" style="vertical-align:top margin:6px 4px">
- </a>
- <a href="#">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/js.svg" alt="JavaScript" style="vertical-align:top margin:6px 4px">
- </a>
- <a href="#">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/php.svg" alt="PHP" style="vertical-align:top margin:6px 4px">
- </a>
- <a href="#">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/bootstrap.svg" alt="Bootstrap" style="vertical-align:top margin:6px 4px">
- </a>
- <a href="#">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/jquery.svg" alt="jQuery" style="vertical-align:top margin:6px 4px">
- </a>
- <a href="#">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/nodejs.svg" alt="Node.JS" style="vertical-align:top margin:6px 4px">
- </a>
- <a href="#">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/services/azure.svg" alt="Microsoft Azure" style="vertical-align:top margin:6px 4px">
- </a>
- <a href="#">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/docker.svg" alt="Docker" style="vertical-align:top margin:6px 4px">
- </a>
+<a href="#">
+ <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/html.svg" alt="HTML5" style="vertical-align:top margin:6px 4px">
+</a>
+<a href="#">
+ <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/css3.svg" alt="CSS3" style="vertical-align:top margin:6px 4px">
+</a>
+<a href="#">
+ <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/js.svg" alt="JavaScript" style="vertical-align:top margin:6px 4px">
+</a>
+<a href="#">
+ <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/php.svg" alt="PHP" style="vertical-align:top margin:6px 4px">
+</a>
+<a href="#">
+ <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/bootstrap.svg" alt="Bootstrap" style="vertical-align:top margin:6px 4px">
+</a>
+<a href="#">
+ <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/jquery.svg" alt="jQuery" style="vertical-align:top margin:6px 4px">
+</a>
+<a href="#">
+ <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/nodejs.svg" alt="Node.JS" style="vertical-align:top margin:6px 4px">
+</a>
+<a href="#">
+ <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/services/azure.svg" alt="Microsoft Azure" style="vertical-align:top margin:6px 4px">
+</a>
+<a href="#">
+ <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/docker.svg" alt="Docker" style="vertical-align:top margin:6px 4px">
+</a>
 
 ### 📕 And I'm currently learning:
 
- <a href="#">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/dart_colour.svg" alt="Dart" style="vertical-align:top margin:6px 4px">
- </a>
- <a href="#">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/flutter.svg" alt="Flutter" style="vertical-align:top margin:6px 4px">
- </a>
- <a href="#">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/python.svg" alt="Python" style="vertical-align:top margin:6px 4px">
- </a>
- <a href="#">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/xamarin_forms.svg" alt="Xamarin Forms" style="vertical-align:top margin:6px 4px">
- </a>
- <a href="#">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/misc/gamedev.svg" alt="Game Development" style="vertical-align:top margin:6px 4px">
- </a>
- <br>
-  `I know, it's so many things and it's almost impossible, but life is challenge.`
+<a href="#">
+ <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/dart_colour.svg" alt="Dart" style="vertical-align:top margin:6px 4px">
+</a>
+<a href="#">
+ <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/flutter.svg" alt="Flutter" style="vertical-align:top margin:6px 4px">
+</a>
+<a href="#">
+ <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/python.svg" alt="Python" style="vertical-align:top margin:6px 4px">
+</a>
+<a href="#">
+ <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/xamarin_forms.svg" alt="Xamarin Forms" style="vertical-align:top margin:6px 4px">
+</a>
+<a href="#">
+ <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/misc/gamedev.svg" alt="Game Development" style="vertical-align:top margin:6px 4px">
+</a>
+<br>
+ 
+`I know, it's so many things and it's almost impossible, but life is challenge.`
 
 ### 💌 Where can you found me?
 
- <a href="#">
+ <a href="mailto:filimor@posteo.net">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/email_me.svg" alt="E-mail" style="vertical-align:top margin:6px 4px">
  </a>
- <a href="#">
+ <a href="https://t.me/filimor">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/telegram.svg" alt="Telegram" style="vertical-align:top margin:6px 4px">
  </a>
- <a href="#">
+ <a href="https://www.linkedin.com/in/filimor">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/linkedin.svg" alt="LinkedIn" style="vertical-align:top margin:6px 4px">
  </a>
- <a href="#">
+ <!--<a href="#">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/meetup.svg" alt="Meetup" style="vertical-align:top margin:6px 4px">
  </a>
  <a href="#">
@@ -109,7 +110,7 @@ Hello! My name is Filipe and I'm rediscovering an old passion: software developm
  </a>
  <a href="#">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/services/leetcode.svg" alt="Leet Code" style="vertical-align:top margin:6px 4px">
- </a>
+ </a>-->
 
 ### 🙏 My gratitute to:
 
