@@ -75,8 +75,8 @@ Hello! My name is Filipe and I'm rediscovering an old passion: software developm
  <a href="#">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/misc/gamedev.svg" alt="Game Development" style="vertical-align:top margin:6px 4px">
  </a>
-
-I know, it's so many things and it's almost impossible, but life is challenge.
+ <br>
+  `I know, it's so many things and it's almost impossible, but life is challenge.`
 
 ### 💌 Where can you found me?
 
