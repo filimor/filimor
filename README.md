@@ -67,7 +67,7 @@ My name is Filipe and I'm rediscovering an old passion: software development. I'
  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/services/azure.svg" alt="Microsoft Azure" style="vertical-align:top margin:6px 4px">
 </a>
 <br>
- 
+<br>
 `I know, it's so many things and it's almost impossible, but life is challenge.`
 
 ### 💌 Where can you found me?
