@@ -1,8 +1,8 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hi there, dear people! 😎
 
 Also avaliable in  [English](https://github.com/filimor/filimor/edit/main/README.md), [Português](https://github.com/filimor/filimor/edit/main/README.pt-BR.md)
 
-My name is Filipe and I'm an "older new" to this field of knowledge. I plan to be both a speak languages and programming languages poliglote [emoji]. Most of my repositories are made for learning pourposes only, but I expect that I can contribute to open source soon!
+Hello! My name is Filipe and I'm rediscovering an old passion: software development. I'm am Information Technology bachelor's student at [Univesp](https://github.com/univesp) 🎓. I wish to be multilingual both in languages and programming languages 😜. Most of my repositories are made for learning purposes only, but I hope to be able to contribute with open source soon!
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=filimor&count_private=true&show_icons=true&include_all_commits=true&custom_title=What%20I've%20done)](https://github.com/filimor/github-readme-stats)
 
@@ -10,7 +10,7 @@ My name is Filipe and I'm an "older new" to this field of knowledge. I plan to b
 
 [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=filimor&custom_title=How%20much%20I've%20been%20doing)](https://github.com/filimor/github-readme-stats)
 
-### 🔭 I'm focused on work with:
+### 📗 My main focus is to work with:
 
  <a href="#">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/csharp_dotnet.svg" alt="C# / .NET" style="vertical-align:top margin:6px 4px">
@@ -28,7 +28,7 @@ My name is Filipe and I'm an "older new" to this field of knowledge. I plan to b
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/powershell.svg" alt="Power Shell" style="vertical-align:top margin:6px 4px">
  </a>
 
-### 🌱 I also know a little about:
+### 📒 I also know a little about:
 
  <a href="#">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/html.svg" alt="HTML5" style="vertical-align:top margin:6px 4px">
@@ -58,7 +58,7 @@ My name is Filipe and I'm an "older new" to this field of knowledge. I plan to b
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/docker.svg" alt="Docker" style="vertical-align:top margin:6px 4px">
  </a>
 
-### 🌱 And I'm currently learning:
+### 📕 And I'm currently learning:
 
  <a href="#">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/dart_colour.svg" alt="Dart" style="vertical-align:top margin:6px 4px">
@@ -75,9 +75,10 @@ My name is Filipe and I'm an "older new" to this field of knowledge. I plan to b
  <a href="#">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/misc/gamedev.svg" alt="Game Development" style="vertical-align:top margin:6px 4px">
  </a>
- 
 
-### 📫 Where can you found me?
+I know, it's so many things and it's almost impossible, but life is challenge.
+
+### 💌 Where can you found me?
 
  <a href="#">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/email_me.svg" alt="E-mail" style="vertical-align:top margin:6px 4px">
@@ -110,7 +111,8 @@ My name is Filipe and I'm an "older new" to this field of knowledge. I plan to b
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/services/leetcode.svg" alt="Leet Code" style="vertical-align:top margin:6px 4px">
  </a>
 
-### 😄 My gratitute to:
+### 🙏 My gratitute to:
 
 - [Anurag Hazra](https://github.com/anuraghazra) for the [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats) project
 - [Mike James](https://github.com/MikeCodesDotNET) for the [Colored Badges](https://github.com/MikeCodesDotNET/ColoredBadges) project
+- [Rafael Xavier de Souza](https://github.com/rxaviers) for the [Complete list of github markdown emoji markup](https://gist.github.com/rxaviers/7360908)
