@@ -16,20 +16,17 @@ Hello! My name is Filipe and I'm rediscovering an old passion: software developm
  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/csharp_dotnet.svg" alt="C# / .NET" style="vertical-align:top margin:6px 4px">
 </a>
 <a href="#">
- <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/wpf.svg" alt="WPF" style="vertical-align:top margin:6px 4px">
-</a>
-<a href="#">
  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/visualstudio.svg" alt="Visual Studio" style="vertical-align:top margin:6px 4px">
 </a>
 <a href="#">
  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/visualstudio_code.svg" alt="VS Code" style="vertical-align:top margin:6px 4px">
 </a>
-<a href="#">
- <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/powershell.svg" alt="Power Shell" style="vertical-align:top margin:6px 4px">
-</a>
 
 ### 📒 I also know a little about:
 
+<a href="#">
+ <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/wpf.svg" alt="WPF" style="vertical-align:top margin:6px 4px">
+</a>
 <a href="#">
  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/html.svg" alt="HTML5" style="vertical-align:top margin:6px 4px">
 </a>
@@ -52,17 +49,11 @@ Hello! My name is Filipe and I'm rediscovering an old passion: software developm
  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/nodejs.svg" alt="Node.JS" style="vertical-align:top margin:6px 4px">
 </a>
 <a href="#">
- <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/services/azure.svg" alt="Microsoft Azure" style="vertical-align:top margin:6px 4px">
-</a>
-<a href="#">
- <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/docker.svg" alt="Docker" style="vertical-align:top margin:6px 4px">
+ <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/dart_colour.svg" alt="Dart" style="vertical-align:top margin:6px 4px">
 </a>
 
 ### 📕 And I'm currently learning:
 
-<a href="#">
- <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/dart_colour.svg" alt="Dart" style="vertical-align:top margin:6px 4px">
-</a>
 <a href="#">
  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/flutter.svg" alt="Flutter" style="vertical-align:top margin:6px 4px">
 </a>
@@ -73,7 +64,7 @@ Hello! My name is Filipe and I'm rediscovering an old passion: software developm
  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/xamarin_forms.svg" alt="Xamarin Forms" style="vertical-align:top margin:6px 4px">
 </a>
 <a href="#">
- <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/misc/gamedev.svg" alt="Game Development" style="vertical-align:top margin:6px 4px">
+ <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/services/azure.svg" alt="Microsoft Azure" style="vertical-align:top margin:6px 4px">
 </a>
 <br>
  
