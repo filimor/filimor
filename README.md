@@ -68,6 +68,7 @@ My name is Filipe and I'm rediscovering an old passion: software development. I'
 </a>
 <br>
 <br>
+
 `I know, it's so many things and it's almost impossible, but life is challenge.`
 
 ### 💌 Where can you found me?
