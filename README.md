@@ -1,8 +1,10 @@
-### Hi, dear people! 😎
+### Hi, !'m Filipe! 😎
 
 Also avaliable in  [English](https://github.com/filimor/filimor/edit/main/README.md), [Português](https://github.com/filimor/filimor/edit/main/README.pt-BR.md)
 
-My name is Filipe and I'm rediscovering an old passion: software development. I'm an Information Technology Bachelor student at [Univesp](https://github.com/univesp) 🎓. I wish to be multilingual both in languages and programming languages 😜. Most of my repositories are made for learning purposes only, but I hope to be able to contribute with open source soon!
+![mailto:filimor@posteo.net](https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/email_me.svg) ![https://t.me/filimor](https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/telegram.svg) ![https://www.linkedin.com/in/filimor](https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/linkedin.svg)
+
+I'm an Information Technology Bachelor student at [Univesp](https://github.com/univesp) 🎓. I wish to be multilingual both in languages and programming languages someday 😜. Most of my repositories are made for learning purposes only, but I hope to be able to contribute with open source soon!
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=filimor&count_private=true&show_icons=true&include_all_commits=true&custom_title=What%20I've%20done)](https://github.com/filimor/github-readme-stats)
 
@@ -10,102 +12,21 @@ My name is Filipe and I'm rediscovering an old passion: software development. I'
 
 [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=filimor&custom_title=How%20much%20I've%20been%20doing)](https://github.com/filimor/github-readme-stats)
 
-### 📗 My main focus is to work with:
+### Things I already know a little
 
-<a href="#">
- <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/csharp_dotnet.svg" alt="C# / .NET" style="vertical-align:top margin:6px 4px">
-</a>
-<a href="#">
- <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/visualstudio.svg" alt="Visual Studio" style="vertical-align:top margin:6px 4px">
-</a>
-<a href="#">
- <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/visualstudio_code.svg" alt="VS Code" style="vertical-align:top margin:6px 4px">
-</a>
+![C#](https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white) ![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoft-office&logoColor=white&style=for-the-badge)
 
-### 📒 I also know a little about:
+### Things I'm learning
 
-<a href="#">
- <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/wpf.svg" alt="WPF" style="vertical-align:top margin:6px 4px">
-</a>
-<a href="#">
- <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/html.svg" alt="HTML5" style="vertical-align:top margin:6px 4px">
-</a>
-<a href="#">
- <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/css3.svg" alt="CSS3" style="vertical-align:top margin:6px 4px">
-</a>
-<a href="#">
- <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/js.svg" alt="JavaScript" style="vertical-align:top margin:6px 4px">
-</a>
-<a href="#">
- <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/php.svg" alt="PHP" style="vertical-align:top margin:6px 4px">
-</a>
-<a href="#">
- <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/bootstrap.svg" alt="Bootstrap" style="vertical-align:top margin:6px 4px">
-</a>
-<a href="#">
- <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/jquery.svg" alt="jQuery" style="vertical-align:top margin:6px 4px">
-</a>
-<a href="#">
- <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/nodejs.svg" alt="Node.JS" style="vertical-align:top margin:6px 4px">
-</a>
-<a href="#">
- <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/dart_colour.svg" alt="Dart" style="vertical-align:top margin:6px 4px">
-</a>
+![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Node.JS](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white) ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?logo=microsoft-azure&logoColor=white&style=for-the-badge) 
 
-### 📕 And I'm currently learning:
+### Things I plan to learn
 
-<a href="#">
- <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/flutter.svg" alt="Flutter" style="vertical-align:top margin:6px 4px">
-</a>
-<a href="#">
- <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/python.svg" alt="Python" style="vertical-align:top margin:6px 4px">
-</a>
-<a href="#">
- <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/xamarin_forms.svg" alt="Xamarin Forms" style="vertical-align:top margin:6px 4px">
-</a>
-<a href="#">
- <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/services/azure.svg" alt="Microsoft Azure" style="vertical-align:top margin:6px 4px">
-</a>
-<br>
-<br>
-
-`I know, it's so many things and it's almost impossible, but life is challenge.`
-
-### 💌 Where can you found me?
-
- <a href="mailto:filimor@posteo.net">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/email_me.svg" alt="E-mail" style="vertical-align:top margin:6px 4px">
- </a>
- <a href="https://t.me/filimor">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/telegram.svg" alt="Telegram" style="vertical-align:top margin:6px 4px">
- </a>
- <a href="https://www.linkedin.com/in/filimor">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/linkedin.svg" alt="LinkedIn" style="vertical-align:top margin:6px 4px">
- </a>
- <!--<a href="#">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/meetup.svg" alt="Meetup" style="vertical-align:top margin:6px 4px">
- </a>
- <a href="#">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/stackoverflow.svg" alt="Stack Overflow" style="vertical-align:top margin:6px 4px">
- </a>
- <a href="#">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/services/codechef.svg" alt="Code Chef" style="vertical-align:top margin:6px 4px">
- </a>
- <a href="#">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/services/codewars.svg" alt="Code Wars" style="vertical-align:top margin:6px 4px">
- </a>
- <a href="#">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/services/excercism.svg" alt="Exercism" style="vertical-align:top margin:6px 4px">
- </a>
- <a href="#">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/services/hackerrank.svg" alt="Hacker Rank" style="vertical-align:top margin:6px 4px">
- </a>
- <a href="#">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/services/leetcode.svg" alt="Leet Code" style="vertical-align:top margin:6px 4px">
- </a>-->
+![Xamarin Forms](https://img.shields.io/badge/xamarin%20forms-%233498DB.svg?&style=flat-square&logo=xamarin&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white) ![Angular](https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white) ![Unity](https://img.shields.io/badge/unity%20-%23100000.svg?&style=for-the-badge&logo=unity&logoColor=white)
 
 ### 🙏 My gratitute to:
 
 - [Anurag Hazra](https://github.com/anuraghazra) for the [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats) project
 - [Mike James](https://github.com/MikeCodesDotNET) for the [Colored Badges](https://github.com/MikeCodesDotNET/ColoredBadges) project
 - [Rafael Xavier de Souza](https://github.com/rxaviers) for the [Complete list of github markdown emoji markup](https://gist.github.com/rxaviers/7360908)
+- [Alexadre Sanlim](https://github.com/alexandresanlim) for the [Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile) project
