@@ -2,7 +2,7 @@
 
 Also avaliable in  [English](https://github.com/filimor/filimor/edit/main/README.md), [Português](https://github.com/filimor/filimor/edit/main/README.pt-BR.md)
 
-Hello! My name is Filipe and I'm rediscovering an old passion: software development. I'm am Information Technology bachelor's student at [Univesp](https://github.com/univesp) 🎓. I wish to be multilingual both in languages and programming languages 😜. Most of my repositories are made for learning purposes only, but I hope to be able to contribute with open source soon!
+Hello! My name is Filipe and I'm rediscovering an old passion: software development. I'm an Information Technology Bachelor student at [Univesp](https://github.com/univesp) 🎓. I wish to be multilingual both in languages and programming languages 😜. Most of my repositories are made for learning purposes only, but I hope to be able to contribute with open source soon!
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=filimor&count_private=true&show_icons=true&include_all_commits=true&custom_title=What%20I've%20done)](https://github.com/filimor/github-readme-stats)
 
