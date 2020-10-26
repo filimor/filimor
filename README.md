@@ -1,8 +1,16 @@
-### Hi, !'m Filipe! 😎
+<h2 align=center>Hello, I'm Filipe! 😎</h2>
 
-Also avaliable in  [English](https://github.com/filimor/filimor/edit/main/README.md), [Português](https://github.com/filimor/filimor/edit/main/README.pt-BR.md)
+<p align=center>
+ <a href="mailto:filimor@posteo.net">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/email_me.svg" alt="E-mail">
+ </a><a href="https://t.me/filimor">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/telegram.svg" alt="Telegram">
+ </a> <a href="https://www.linkedin.com/in/filimor">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/linkedin.svg" alt="Linkedin">
+ </a>
+</p>
 
-![mailto:filimor@posteo.net](https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/email_me.svg) ![https://t.me/filimor](https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/telegram.svg) ![https://www.linkedin.com/in/filimor](https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/linkedin.svg)
+> This page is also avaliable in  [English](https://github.com/filimor/filimor/edit/main/README.md), [Português](https://github.com/filimor/filimor/edit/main/README.pt-BR.md)
 
 I'm an Information Technology Bachelor student at [Univesp](https://github.com/univesp) 🎓. I wish to be multilingual both in languages and programming languages someday 😜. Most of my repositories are made for learning purposes only, but I hope to be able to contribute with open source soon!
 
