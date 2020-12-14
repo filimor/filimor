@@ -10,7 +10,7 @@
  </a>
 </p>
 
-> This page is also avaliable in  [English](https://github.com/filimor/filimor/edit/main/README.md), [Português](https://github.com/filimor/filimor/edit/main/README.pt-BR.md)
+> This page is also avaliable in  [English](https://github.com/filimor/filimor/blob/main/README.md), [Português](https://github.com/filimor/filimor/blob/main/README.pt-BR.md)
 
 I'm an Information Technology Bachelor student at [Univesp](https://github.com/univesp) 🎓. I wish to be multilingual both in languages and programming languages someday 😜. Most of my repositories are made for learning purposes only, but I hope to be able to contribute with open source soon!
 
