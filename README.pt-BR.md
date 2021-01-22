@@ -14,11 +14,11 @@
 
 Sou estudante de Bacharelado em Tecnologia da Informação na [Univesp](https://github.com/univesp) 🎓. Eu quero poder ser poliglota tanto em idiomas quanto em linguagens de programação um dia 😜. A maioria dos meus repositórios foram criados apenas para fins de aprendizado, mas eu espero poder contribuir com o código aberto em breve!
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=filimor&count_private=true&show_icons=true&include_all_commits=true&custom_title=O%20que%20eu%20fiz)](https://github.com/anuraghazra/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=filimor&count_private=true&show_icons=true&include_all_commits=true&custom_title=O%20qu%C3%AA%20eu%20fiz)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=filimor&langs_count=10&layout=compact&custom_title=Sobre%20o%20que%20eu%20fiz)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=filimor&langs_count=10&layout=compact&custom_title=Sobre%20o%20qu%C3%AA%20eu%20fiz)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=filimor&custom_title=Quanto%20eu%20tenho%20feito)](https://github.com/anuraghazra/github-readme-stats)
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=filimor&custom_title=Quanto%20eu%20tenho%20feito%20%28%C3%9Altima%20Semana%29)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📗 Coisas que eu já sei um pouco
 
