@@ -18,7 +18,7 @@ I'm an Information Technology Bachelor student at [Univesp](https://github.com/u
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=filimor&langs_count=10&layout=compact&custom_title=About%20what%20I've%20done)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=filimor&custom_title=How%20much%20I've%20been%20doing)](https://github.com/anuraghazra/github-readme-stats)
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=filimor&custom_title=How%20much%20I've%20been%20doing%20%28Last%20Week%29)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📗 Things I already know a little
 
@@ -32,7 +32,7 @@ I'm an Information Technology Bachelor student at [Univesp](https://github.com/u
 
 ![Xamarin Forms](https://img.shields.io/badge/xamarin%20forms-%233498DB.svg?&style=flat-square&logo=xamarin&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white) ![Angular](https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white) ![Unity](https://img.shields.io/badge/unity%20-%23100000.svg?&style=for-the-badge&logo=unity&logoColor=white)
 
-### 🙏 My gratitute to:
+### 🙏 Acknowledgements:
 
 - [Anurag Hazra](https://github.com/anuraghazra) for the [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats) project
 - [Mike James](https://github.com/MikeCodesDotNET) for the [Colored Badges](https://github.com/MikeCodesDotNET/ColoredBadges) project
