@@ -17,3 +17,7 @@ I'm a Software Engineer and an Information Technology Bachelor student 🎓 at [
 [![Github stats](https://github-readme-stats.vercel.app/api?username=filimor&count_private=true&show_icons=true&include_all_commits=true&custom_title=What%20I've%20done)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=filimor&langs_count=10&layout=compact&custom_title=About%20what%20I've%20done)](https://github.com/anuraghazra/github-readme-stats)
+
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/65c4fe70323fd6becf1a24dd?variant=light)](https://roadmap.sh)
+
+[![Hackerrank](https://hackerrank-badge.onrender.com/api/v1/badges/filimor?type=jpeg)](https://www.hackerrank.com/profile/filimor)
